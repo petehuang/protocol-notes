@@ -4,7 +4,7 @@ const Preamble = () => {
   return (
     <div className="preamble">
       <p>
-        These are extremely compact notes on important protocols. In general, each note covers what the protocol does and what's interesting or new about it. There will not be any investment-style analysis.
+        These are extremely compact notes on important protocols. In general, each note covers what the protocol does and what's interesting or new about it. There will not be any investment-style analysis and of course, this is not financial advice.
       </p>
       <p>
         <strong>What determines "important"?</strong> - 

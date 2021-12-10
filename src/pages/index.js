@@ -42,12 +42,13 @@ const BlogIndex = ({ data, location }) => {
       <Seo title="Home" />
       <div className="wrapper">
       <div className="column-wrapper">
-        <Category categoryTitle="amm" posts={categories["amm"]} />
-        <Category categoryTitle="other" posts={categories["other"]} />
+        <Category categoryTitle="Dexes" posts={categories["Dexes"]} />
+        <Category categoryTitle="Stablecoins" posts={categories["Stablecoins"]} />
+        <Category categoryTitle="Lending" posts={categories["Lending"]} />
         
       </div>
       <div className="column-wrapper">
-      <Category categoryTitle="test" posts={categories["test"]} />
+
       </div>
       </div>
     </Layout>
@@ -63,7 +64,7 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: ASC }) {
       nodes {
         excerpt
         fields {
