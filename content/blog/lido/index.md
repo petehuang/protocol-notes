@@ -13,4 +13,4 @@ If you stake your tokens, you can't really do anything else with them. It would 
 
 Lido takes 10% of all fees earned. 5% of those fees gets returned back to the validators. The other 5% goes to a Lido treasury that holders of the native token LDO control.
 
-Funnily enough, some protocols don't work well with the stETH balance changing with interest ([aTokens](/aave/) are similar). They need balance to stay the same while price increases with interest, like how [cTokens](/compound/) work. Lido offers *another* wrapped token called wstETH, which uses this second model of distributing fees.
+Funnily enough, some protocols don't work well with the stETH balance changing with interest (Aave [aTokens](/aave/) are similar). They need balance to stay the same while price increases with interest, like how Compound [cTokens](/compound/) work. Lido offers *another* wrapped token called wstETH, which uses this second model of distributing fees.
