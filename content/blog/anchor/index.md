@@ -5,7 +5,7 @@ description: ""
 category: "Liquid Staking"
 ---
 
-Anchor is a liquid staking protocol.
+Anchor is a liquid staking and lending protocol.
 
 Like Lido, Anchor wraps the staking token - in this case, LUNA is exchanged for bLUNA. On top of freeing up the staked token, Anchor allows users to then borrow stablecoins against the wrapped staking token. On the other side, depositors put in stablecoins and get back aTerra, which represents their claim to the stablecoins. All wrapped assets have their value accrual (staking fees) and destruction (loss of tokens in staking) represented via their price.
 
