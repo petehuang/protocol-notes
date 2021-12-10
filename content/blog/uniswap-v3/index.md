@@ -12,4 +12,4 @@ Uniswap v3 introduces two changes to Uniswap v2:
 
 The changes mostly affect LPs and are tough to wrangle for most people. In summary, if you provide concentrated liquidity, you can earn more in fees (if the price is in the range you specify) but you can also lose more in impermanent loss (if the price is outside the range). In fact, [half of v3 LPs are losing money](https://cointelegraph.com/news/half-of-uniswap-v3-liquidity-providers-are-losing-money-new-research).
 
-Beyond returns, v3 LPs need to actively manage their liquidity positions, which can be difficult. All put together, automated strategies may be the only reasonable way of using v3 for the average LP.
+Beyond returns, v3 LPs need to actively manage their liquidity positions, which can be difficult. All put together, v3 exposes more functionality to create a "higher ceiling", but the average person should probably stick to simpler options.
