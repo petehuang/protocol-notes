@@ -11,7 +11,7 @@ You want high liquidity, low slippage.
 
 Curve is a dex that is designed to achieve both. It's best understood in two parts - one for stablecoins and one for general-purpose swaps.
 
-In the stablecoin part, Curve replaces Uniswap's `X*Y=K` with a [more complicated formula](https://curve.fi/files/stableswap-paper.pdf) that nearly eliminates slippage when the assets are the same price, even on very large swaps. Any combination of tokens that should be the same price benefit from this - stablecoins, wrapped versions of the same token, etc.
+In the stablecoin part, Curve replaces Uniswap's `X*Y=K` with a [more complicated formula](https://curve.fi/files/stableswap-paper.pdf) that nearly eliminates slippage when the assets are the same price, even on very large swaps. Any combination of tokens that should be the same price benefits from this - stablecoins, wrapped versions of the same token, etc.
 
 Deposit 1+ of the tokens into a pool. You will still get an LPT that withdraws an equally proportion of the pool tokens. Swaps will balance the pool - imbalanced assets make price deviate from $1, so people will swap to capture that profit. Curve also gives bonuses to people who make deposits/withdrawals that balance the pool.
 
