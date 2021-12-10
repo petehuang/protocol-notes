@@ -49,6 +49,7 @@ const BlogIndex = ({ data, location }) => {
       </div>
       <div className="column-wrapper">
       <Category categoryTitle="Curve Wars" posts={categories["Curve Wars"]} />
+      <Category categoryTitle="Liquid Staking" posts={categories["Liquid Staking"]} />
       </div>
       </div>
     </Layout>
