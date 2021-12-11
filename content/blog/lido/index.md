@@ -11,6 +11,8 @@ If you stake your tokens, you can't really do anything else with them. It would 
 
 **Liquid staking** protocols like Lido allow you to do this. Deposit ETH into Lido and it will give you back a Lido-wrapped token called stETH. Its price tracks ETH price, and it theoretically can be used just like ETH, but only if other protocols accept it. As you earn fees from the underlying staked ETH, you'll get more stETH in your wallet as you hold it.
 
+One major criticism of Lido is that it works with a small number of validators. Lido takes the pooled ETH and distributes it only among these validators. There are less than 20 Ethereum validators onboarded to Lido at time of writing.
+
 Lido takes 10% of all fees earned. 5% of those fees gets returned back to the validators. The other 5% goes to a Lido treasury that holders of the native token LDO control.
 
 Funnily enough, some protocols don't work well with the stETH balance changing with interest (Aave [aTokens](/aave/) are similar). They need balance to stay the same while price increases with interest, like how Compound [cTokens](/compound/) work. Lido offers *another* wrapped token called wstETH, which uses this second model of distributing fees.
