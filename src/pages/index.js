@@ -53,6 +53,7 @@ const BlogIndex = ({ data, location }) => {
       <Category categoryTitle="Liquid Staking" posts={categories["Liquid Staking"]} />
       <Category categoryTitle="Yield Optimizer" posts={categories["Yield Optimizer"]} />
       <Category categoryTitle="Indexes" posts={categories["Indexes"]} />
+      <Category categoryTitle="Insurance" posts={categories["Insurance"]} />
       </div>
       </div>
     </Layout>
