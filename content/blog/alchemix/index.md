@@ -11,4 +11,4 @@ Deposit DAI/ETH and get back alUSD/alETH. Alchemix will convert the DAI/ETH into
 
 alUSD and alETH stay pegged to their assets by way of the "Transmuter". As yield is earned, Alchemix collects reserves of DAI and ETH. If you put your alUSD and alETH back into Alchemix while it's collecting yield, it will slowly convert it back into DAI and ETH. 
 
-In some ways, this follows a similar pattern to [liquid staking](/lido/), where the yield-bearing asset is freed up by minting a mirroring asset.
+In summary, you're basically getting an advance on the yield you earn from yearn.
