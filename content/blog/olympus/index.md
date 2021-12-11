@@ -9,7 +9,7 @@ Olympus is seeking to be a reserve currency backed by decentralized assets. Its 
 
 So far, we've seen lots of protocols using their native token to incentivize people to provide liquidity for that token and/or to use the product itself. This amounts to an expensive marketing tactic with a lot of churn. The attracted users' first instinct is to get the rewards, immediately dump them to cash out and pull the liquidity soon after.
 
-Olympus bonds establish a trade where the user is given a discount on the native token in exchange for some asset, often an LPT of the native token but it could be any asset that Olympus is trying to acquire. This ultimately gives yield to the user while giving control of the liquidity to the protocol. Secondarily, because the protocol owns the liquidity, it will earn the LPT fees, and liquidity will be generally more stable.
+Olympus **bonds** establish a trade where the user is given a discount on the native token in exchange for some asset, often an LPT of the native token but it could be any asset that Olympus is trying to acquire. This ultimately gives yield to the user while giving control of the liquidity to the protocol. Secondarily, because the protocol owns the liquidity, it will earn the LPT fees, and liquidity will be generally more stable.
 
 Olympus uses this mechanism to acquire the assets for its treasury.
 
