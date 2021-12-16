@@ -2,7 +2,7 @@
 title: Alchemix
 date: "2021-12-09T22:12:09.284Z"
 description: ""
-category: "Lending"
+category: "Yield Tokenization"
 ---
 
 Alchemix lets you take out loans and helps you pay back loans automatically. Instead of leaving your collateral idle (e.g., Compound), Alchemix puts your collateral into [yearn](/yearn/), collects the yield on yearn and uses it to pay off your debt for you.

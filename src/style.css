@@ -254,7 +254,7 @@ table thead tr th {
 
 .column-wrapper {
   flex: 0 0 auto;
-  width: 50%;
+  width: 33%;
   float: left;
 }
 

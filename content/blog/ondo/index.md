@@ -2,10 +2,8 @@
 title: Ondo
 date: "2021-12-09T22:12:05.284Z"
 description: ""
-category: "Yield Optimizer"
+category: "Tranching"
 ---
-
-Ondo isn't quite a yield optimizer but I'm putting it here for now.
 
 Ondo dissects the LPT. In many LPT pairs, you have less risky token and a more risky token. For example, you might have DAI as the less risky token and ETH as the more risky token.
 

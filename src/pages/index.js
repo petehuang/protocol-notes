@@ -46,15 +46,18 @@ const BlogIndex = ({ data, location }) => {
         <Category categoryTitle="Stablecoins" posts={categories["Stablecoins"]} />
         <Category categoryTitle="Lending" posts={categories["Lending"]} />
         <Category categoryTitle="Olympus Forks" posts={categories["Olympus Forks"]} />
-        <Category categoryTitle="Options" posts={categories["Options"]} />
-        
       </div>
       <div className="column-wrapper">
       <Category categoryTitle="Curve Wars" posts={categories["Curve Wars"]} />
-      <Category categoryTitle="Liquid Staking" posts={categories["Liquid Staking"]} />
-      <Category categoryTitle="Yield Optimizer" posts={categories["Yield Optimizer"]} />
       <Category categoryTitle="Indexes" posts={categories["Indexes"]} />
       <Category categoryTitle="Insurance" posts={categories["Insurance"]} />
+      </div>
+      <div className="column-wrapper">
+      <Category categoryTitle="Options" posts={categories["Options"]} />
+      <Category categoryTitle="Liquid Staking" posts={categories["Liquid Staking"]} />
+      <Category categoryTitle="Yield Tokenization" posts={categories["Yield Tokenization"]} />
+      <Category categoryTitle="Yield Optimizer" posts={categories["Yield Optimizer"]} />
+      <Category categoryTitle="Tranching" posts={categories["Tranching"]} />
       </div>
       </div>
     </Layout>
